@@ -11,7 +11,7 @@ rm -rf ~/.cocoapods/repos/trunk
 pod repo update
 
 # 4. 进入 iOS 目录重新安装
-cd /path/to/loyalty-rn-frontend/ios
+cd /path/to/your_project_name/ios
 
 bundle install
 
